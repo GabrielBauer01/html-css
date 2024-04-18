@@ -26,6 +26,7 @@ body{
 a.externo{
 
     text-decoration: none;
+    color: black;
 }
 
 a.externo::after{
